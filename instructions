@@ -1,0 +1,5 @@
+Exchange.at("0x2c2b9c9a4a25e24b174f26114e8926a9f2128fe4");
+
+
+Exchange.at("0x2c2b9c9a4a25e24b174f26114e8926a9f2128fe4").doCreateBid(0xa1c0f0733a06eddd700d21d3b20489f015ea376f, "X", 1, 2,3,4)
+Exchange.at("0x2c2b9c9a4a25e24b174f26114e8926a9f2128fe4").bidsCount.call()
